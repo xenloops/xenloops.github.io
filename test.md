@@ -1,5 +1,5 @@
 # Hello world!
-Lorem ipsum....
+This will enable me to add and change content without using FTP or memorizing HTML/PHP (once it's set up).
 
 ## Subhed 1
 Lorem ipsum....
