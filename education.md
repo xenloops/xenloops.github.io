@@ -35,5 +35,5 @@ Courses included:
 * Expert Systems
 * Automata Theory
 * System Programming
-* A host of math classes
+* A host of math classes up through multivariate calculus, differential equations, and number theory
 
