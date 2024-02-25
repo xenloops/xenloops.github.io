@@ -25,7 +25,7 @@ Projects included:
 * Researched, lectured on the technology behind Twitter
 * Designed and implemented application to monitor outgoing data for security breaches
 
-Bachelor of Arts degree in Computer Science, University of Minnesota (Minneapolis, MN, USA)
+### Bachelor of Arts degree in Computer Science, University of Minnesota (Minneapolis, MN, USA)
 
 Courses included:
 
