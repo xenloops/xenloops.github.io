@@ -38,7 +38,7 @@ The model is available in many formats:
 * PDF
 * On-line surveys (created by various companies)
 
-## Why contract a consultant for this?
+## Why contract a maturity consultant?
 Most maturity consulting is executed by a team of underexperienced people who are unable to thoroughly explain the topics and what the questions are asking (performing maturity assessments is not usually why people get into security), nearly guaranteeing an inconsistent view of the enterprise. 
 
 I interview the teams and stakeholders involved in the craft and delivery of software directly, and combine their answers in a concise, cohesive view of your organization's security maturity. I provide consistency, expertise, and guidance on next steps. Further, I can train your personnel to perform the interviews or answer the questions and deliver the reports and metrics themselves, and help them understand the issues the SAMM brings up.
