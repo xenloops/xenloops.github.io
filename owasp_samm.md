@@ -1,4 +1,4 @@
-# Using the OWASP SAMM
+# Measuring software maturity using the OWASP SAMM
 
 ## What is OWASP?
 
