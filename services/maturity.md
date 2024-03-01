@@ -4,7 +4,7 @@
 
 A quick intro: OWASP (the Open Worldwide Application Security Program) is an open-source, open community of security practitioners (and anyone interested in securing all the things, really), with lots of projects ranging from application security training and cheat sheets to risk management, and everything between. (If it has to do with AppSec, there's probably an OWASP project for it. Seriously, search the web for "OWASP" and anything AppSec related, and you'll find an OWASP page for it.) 
 
-OWASP is far more than the [Top 10](https://owasp.org/www-project-top-ten). There are even more lists than the original Top 10 (but that's on another page).
+OWASP is far more than the [Top 10](https://owasp.org/www-project-top-ten). There are even more lists than the original Top 10 (but that's for another page).
 
 ## What is the OWASP SAMM?
 
