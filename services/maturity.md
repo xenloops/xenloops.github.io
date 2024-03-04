@@ -1,5 +1,8 @@
 # Measuring software maturity using the OWASP SAMM
 
+> [!TIP]
+> [Contact me](mailto:maturity@natelarson.net?subject=Assess%20my%20maturity) for expert help with a maturity assessment, or learning how to do them yourself. Download the [PGP public key](https://keys.openpgp.org/vks/v1/by-fingerprint/7A612A58AD955574E3273429E1DE2D665ADC1DE3) to email privately.
+
 ## What is OWASP?
 
 A quick intro: OWASP (the Open Worldwide Application Security Program) is an open-source, open community of security practitioners (and anyone interested in securing all the things, really), with lots of projects ranging from application security training and cheat sheets to risk management, and everything between. (If it has to do with AppSec, there's probably an OWASP project for it. Seriously, search the web for "OWASP" and anything AppSec related, and you'll find an OWASP page for it.) 
