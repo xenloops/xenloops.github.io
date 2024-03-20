@@ -37,3 +37,6 @@ Courses included:
 * System Programming
 * A host of math classes up through multivariate calculus, differential equations, and number theory
 
+|H1|H2|h3|
+|--|--|--|
+|1|2|3|
