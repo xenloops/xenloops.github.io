@@ -37,5 +37,5 @@ Courses included:
 * System Programming
 * A host of math classes up through multivariate calculus, differential equations, and number theory
 
-[Test link](articles/OWASP_Top_10/OWASP_Top_10.md)
+[Test link](https://github.com/xenloops/website/blob/main/articles/OWASP_Top_10/OWASP_Top_10.md)
 
