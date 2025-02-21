@@ -1,17 +1,21 @@
-# What I've worked with
+# What I do
 
 ## Skills
-* Secure SDLC development and management
-* Static Application Analysis Testing (SAST)
-* Dynamic Application Analysis Testing (DAST)
-* Web, mobile, and API application penetration testing
+* Build successful application security programs
+* Assess existing security programs and analyze gaps
+* Architect and perform security testing:
+  * Static Application Analysis Testing (SAST)
+  * Software Composition Analysis (SCA)
+  * Software Bill of Materials (SBOM)
+  * Dynamic Application Analysis Testing (DAST)
+  * Penetration testing
+  * API testing
+  * Container testing
 * Security Architecture and Engineering
 * Computer forensics
 * Training, curriculum design, presentation
 
 ## Security applications
-* AppScan
-* BackTrack/Kali
 * Burp Suite
 * Checkmarx
 * Fortify
@@ -44,9 +48,10 @@
 * Linux/Windows shell scripting
 
 ## Operating systems
-* Windows Client and Server
 * Linux
-* Mac
+* Mac/iOS
+* Android
+* Windows Client and Server
 
 ## Other skills
 * Systems analysis
