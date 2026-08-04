@@ -1,14 +1,18 @@
 # Companies I've helped succeed
 
-* Boeing
-* Boston Scientific
-* Cardiac Science
-* Comtrol
-* Guidant
-* Honeywell
-* Patterson Companies
-* PNC Bank
-* Selective Insurance
-* Starkey Labs
-* Transnet Rating Systems
-* Wells Fargo
+* Med-tech
+  * Boston Scientific
+  * Cardiac Science
+  * Guidant
+  * Insulet
+  * Patterson
+  * Starkey Labs
+* Finance
+  * PNC Bank
+  * Selective Insurance
+  * Wells Fargo
+* Industrial
+  * Boeing
+  * Comtrol
+  * Honeywell
+  * Transnet Rating Systems
