@@ -13,3 +13,4 @@ Although I am based in the Twin Cities, Minnesota (USA) area, I am interested in
 Please contact me with any questions.
 
 Nate Larson 
+consult [at] natelarson [dot] net
