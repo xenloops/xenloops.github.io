@@ -1,8 +1,6 @@
 # Measuring software maturity using the OWASP SAMM
 
-> [Contact me](mailto:maturity@natelarson.net?subject=Assess%20my%20maturity)
-> 
-> [Contact me](mailto:&#109;&#97;&#116;&#117;&#114;&#105;&#116;&#121;&#64;&#110;&#97;&#116;&#101;&#108;&#97;&#114;&#115;&#111;&#110;&#46;&#110;&#101;&#116;&#63;&#115;&#117;&#98;&#106;&#101;&#99;&#116;&#61;&#65;&#115;&#115;&#101;&#115;&#115; &#109;&#121; &#109;&#97;&#116;&#117;&#114;&#105;&#116;&#121;) for expert help with a maturity assessment, or learning how to do them yourself. Download the [PGP public key](https://keys.openpgp.org/vks/v1/by-fingerprint/7A612A58AD955574E3273429E1DE2D665ADC1DE3) to email privately.
+> [Contact me](mailto:maturity@natelarson.net?subject=Assess%20my%20maturity) for expert help with a maturity assessment, or learning how to do them yourself. Download the [PGP public key](https://keys.openpgp.org/vks/v1/by-fingerprint/7A612A58AD955574E3273429E1DE2D665ADC1DE3) to email privately.
 
 ## What is OWASP?
 
